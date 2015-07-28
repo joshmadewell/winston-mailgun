@@ -23,6 +23,8 @@ Required:
 - `apiKey` Your Mailgun API KEY  
 - `domain` Your Mailgun Domain  
 - `to` The email address(es) to receive e-mail  
+
+Optional:
 - `from` The address you want to send from. (default: winston@[server-host-name])
 - `subject` Subject of e-mail
 - `level`: Level that this transport should log (e-mail).
