@@ -27,10 +27,10 @@ Required:
 Optional:
 - `from` The address you want to send from. (default: winston@[server-host-name])
 - `subject` Subject of e-mail
-- `level`: Level that this transport should log (e-mail).
-- `silent`: Boolean flag indicating whether to suppress output and thus, the e-mail.
-- `proxy` - The proxy URI in format http[s]://[auth@]host:port. ex: 'http://proxy.example.com:8080'  
-- `timeout` - Request timeout in milliseconds  
+- `level` Level that this transport should log (e-mail).
+- `silent` Boolean flag indicating whether to suppress output and thus, the e-mail.
+- `proxy` The proxy URI in format http[s]://[auth@]host:port. ex: 'http://proxy.example.com:8080'  
+- `timeout` Request timeout in milliseconds  
 
 ## Sending Attachments
 
