@@ -1,0 +1,32 @@
+{
+  "name": "winston-mailgun",
+  "description": "Winston Transport for MailGun",
+  "version": "0.1.0",
+  "author": {
+    "author": "Josh Madewell",
+    "email": "josh.madewell@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/joshmadewell/winston-mailgun"
+  },
+  "keywords": [
+    "mailgun",
+    "winston",
+    "logging",
+    "email",
+    "tools"
+  ],
+  "devDependencies": {
+    "winston": ""
+  },
+  "peerDependencies": {
+    "winston": ">=0.5.0 <2.0.0"
+  },
+  "main": "./lib/winston-mailgun.js",
+  "engines":"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
