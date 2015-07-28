@@ -17,6 +17,9 @@
     "email",
     "tools"
   ],
+  "dependencies": {
+    "mailgun-js": "^0.7.1"
+  },
   "devDependencies": {
     "winston": ""
   },
