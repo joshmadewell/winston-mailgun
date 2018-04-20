@@ -1,7 +1,7 @@
 {
   "name": "winston-mailgun",
   "description": "Winston Transport for MailGun",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "author": {
     "author": "Josh Madewell",
     "email": "josh.madewell@gmail.com"
