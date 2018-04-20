@@ -24,7 +24,7 @@
     "winston": ""
   },
   "peerDependencies": {
-    "winston": ">=0.5.0 <2.0.0"
+    "winston": ">=0.5.0"
   },
   "main": "./lib/winston-mailgun.js",
   "engines": "",
